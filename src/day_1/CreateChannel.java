@@ -12,7 +12,11 @@ public class CreateChannel {
         }
         
         /IF ifs
-        
+
+                int x = 1;
+                if(x == 0)   {
+                    System.out.println("x is equals to 0");
+        }
         
     }
 }
