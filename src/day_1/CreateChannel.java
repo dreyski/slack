@@ -4,5 +4,11 @@ public class CreateChannel {
 
     public static void main(String[] args) {
         System.out.println("User is able to create a channel");
+
+        if(true) {
+            System.out.println("TRUE");
+        }else {
+            System.out.println("FALSE");
+        }
     }
 }
